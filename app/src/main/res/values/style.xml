@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="roundShapeImageRadius">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+        <item name="color">@color/black</item>
+    </style>
+
+    <style name="edtTextCustom">
+        <item name="android:background">@drawable/edt_custom</item>
+        <item name="android:drawablePadding">@dimen/paddingDrawable</item>
+        <item name="android:hint">BUSCAR</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textColorHint">@color/background_gray</item>
+        <item name="android:textSize">@dimen/textSize</item>
+    </style>
+
+    <style name="cardShimmerloading">
+        <item name="cardBackgroundColor">@color/gray</item>
+        <item name="cardCornerRadius">@dimen/cornerRadios</item>
+        <item name="cardPreventCornerOverlap">true</item>
+        <item name="cardUseCompatPadding">true</item>
+        <item name="contentPadding">@dimen/paddingCardView16dp</item>
+        <item name="android:textSize">@dimen/textSize</item>
+    </style>
+
+
+    app:cardBackgroundColor="#8A8888"
+    app:cardCornerRadius="@dimen/cornerRadios"
+    app:cardPreventCornerOverlap="true"
+    app:cardUseCompatPadding="true"
+    app:contentPadding="@dimen/paddingCardView16dp"
+</resources>

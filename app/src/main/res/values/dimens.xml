@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="textSize">16sp</dimen>
+    <dimen name="textSize2">20sp</dimen>
+
+    <dimen name="marginVertical32dp">32dp</dimen>
+    <dimen name="marginVertical64dp">64dp</dimen>
+    <dimen name="marginVertical16dp">16dp</dimen>
+    <dimen name="marginVertical8dp">8dp</dimen>
+    <dimen name="marginHorizontal16dp">16dp</dimen>
+    <dimen name="marginHorizontal32dp">32dp</dimen>
+
+    <dimen name="cornerRadios">6dp</dimen>
+    <dimen name="cardElevation">10dp</dimen>
+    <dimen name="paddingDrawable">16dp</dimen>
+    <dimen name="marginHorizontalCardView12dp">12dp</dimen>
+    <dimen name="paddingCardView16dp">16dp</dimen>
+
+</resources>

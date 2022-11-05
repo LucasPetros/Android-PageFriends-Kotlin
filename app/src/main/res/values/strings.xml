@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PageFriendsKotlin</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ops_nenhum_usuario_encontrado">Ops! Usuario não encontrado.</string>
+    <string name="meus_amigos">Meus amigos</string>
+    <string name="amigos">Amigos</string>
+    <string name="optionsbtndescription">OptionsBtnDescription</string>
+    <string name="errorMessage">Não foi possivel carregar sua Lista de amigos</string>
+</resources>
