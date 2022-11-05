@@ -30,11 +30,6 @@ O projeto usa o padrão de arquitetura MVVM
 
 ![app-dark](https://github.com/LucasPetros/PageFriends/blob/developer/app/src/main/res/readme/dark.png)
 
-## Demonstração
-
-
-https://user-images.githubusercontent.com/82883174/199353722-200ef43f-9d51-4358-aa1b-c7899214146c.mp4
-
 
 ## Autor
 
