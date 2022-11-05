@@ -9,7 +9,7 @@ Todas as dependências serão baixadas e instaladas.
 
 ## Arquitetura
 
-O projeto usa o padrão de arquitetura MVVM e Injeção de dependencia (Dagger2)
+O projeto usa o padrão de arquitetura MVVM
 
 ## Feature
 * Product Flavors - tipos de compilação android ou variantes de construção do Android são a maneira nativa de desenvolvimento de aplicativos Android para implementar diferentes versões do mesmo aplicativo com pequenas alterações.
